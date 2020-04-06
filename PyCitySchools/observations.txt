@@ -1,0 +1,3 @@
+Observations for Pandas Homework:
+1. There is a negative correlation between school size and average test scores (math, reading, overall).
+2. Ironically, there is also a negative correlation between how much a school spends, and what the average test scores are.
